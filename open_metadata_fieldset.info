@@ -1,0 +1,11 @@
+name = Open Islandora metadata by default
+description = Opens the Islandora metadata fieldset by default.
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2014-10-18
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "drupal_module_boilerplate"
+datestamp = "1413658731"
+
+scripts[] = js/open_metadata_fieldset.js
